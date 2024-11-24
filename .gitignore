@@ -1,0 +1,6 @@
+**/data/
+**/dumps/
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.env
+**/chroma_db/
